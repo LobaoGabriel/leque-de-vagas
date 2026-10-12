@@ -42,7 +42,7 @@ openjdk version "21.x"
 
 Você pode instalar com SDKMAN, apt, ou diretamente pelo pacote do seu sistema.
 
-Exemplo com SDKMAN:
+Exemplo com SDKMAN: 
 
 ```bash
 sdk install java 21.0.x-tem
