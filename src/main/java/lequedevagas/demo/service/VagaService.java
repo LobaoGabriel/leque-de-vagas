@@ -1,7 +1,7 @@
 package lequedevagas.demo.service;
 
-import lequedevagas.demo.dto.VagaRequisicaoDTO;
-import lequedevagas.demo.dto.VagaRespostaDTO;
+import lequedevagas.demo.dto.vaga.VagaRequisicaoDTO;
+import lequedevagas.demo.dto.vaga.VagaRespostaDTO;
 import lequedevagas.demo.exception.RecursoNaoEncontradoException;
 import lequedevagas.demo.model.Vaga;
 import lequedevagas.demo.repository.VagaRepository;

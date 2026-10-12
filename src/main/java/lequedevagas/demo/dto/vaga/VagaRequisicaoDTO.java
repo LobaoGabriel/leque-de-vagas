@@ -1,4 +1,4 @@
-package lequedevagas.demo.dto;
+package lequedevagas.demo.dto.vaga;
 
 import jakarta.validation.constraints.NotBlank;
 

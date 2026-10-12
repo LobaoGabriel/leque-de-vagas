@@ -2,8 +2,8 @@ package lequedevagas.demo.controller;
 
 import jakarta.validation.Valid;
 
-import lequedevagas.demo.dto.VagaRequisicaoDTO;
-import lequedevagas.demo.dto.VagaRespostaDTO;
+import lequedevagas.demo.dto.vaga.VagaRequisicaoDTO;
+import lequedevagas.demo.dto.vaga.VagaRespostaDTO;
 import lequedevagas.demo.service.VagaService;
 import org.springframework.http.HttpStatus;
 
